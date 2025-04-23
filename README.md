@@ -1,5 +1,7 @@
 # PDF Knowledge Bot
 
+Please download Zip Folder. 
+
 A conversational AI assistant that allows users to ask questions about PDF content and get accurate, referenced answers.
 
 ![PDF Knowledge Bot Screenshot](screenshot.png)
