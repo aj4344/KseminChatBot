@@ -99,4 +99,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Built with React and Flask
 - Powered by advanced NLP techniques
-- Uses vector search for accurate information retrieval 
+- Uses vector search for accurate information retrieval
+
+- Please Download Zip 📂 
