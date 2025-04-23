@@ -1,4 +1,3 @@
-# KseminChatBot
 # PDF Knowledge Bot
 
 A conversational AI assistant that allows users to ask questions about PDF content and get accurate, referenced answers.
